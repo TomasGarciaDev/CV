@@ -4,16 +4,21 @@ A sentence about who and what you are.
 I am a curious and eager learner Junior Developer trained at Makers Academy (Skills Bootcamp Scholarship winner). I have a strong background on creative processes and technology in the music industry, that I applyied in team-work type of settings. Skills that have been very important tools in my process as a Developer. 
 
 Then a sentence about what you've achieved. 
-I 
+I have deply enjoyed my 
+  
 
 And then a sentence about what excites you about tech.
+Since my beginnings with coding, I started learning and asking questions about the tech industry. I have always felt a natural connection to it. I think that my natural approach to work matches perfectly with the industry. I like that is an industry that offers a countinues learning . I still feel that I am in a very early stage of my learning about the industry, and at this moment one of my main goals is to grow my skills as a web app or full stack developer to get a job in a startup or company.
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                         | Description        | Tech/tools         |
+| ---------------------------- | ------------------ | ------------------ |
+| **FizzBuzz**                 | Command Line       | Ruby.              |
+|                              | Application that   |                    |
+|                              | manages a direcory |                    |
+| **Student Directory**        | Class and Ruby     | Ruby and Rspec     |
+|                              | method             |                    |
 
 ## Work Experience
 
