@@ -1,9 +1,12 @@
 ## Tomas Garcia
 
 A sentence about who and what you are.
-I am a curious and curious Aspiring Full Stack Junior Developer training at Makers Academy. 
+I am a curious and eager learner Junior Developer trained at Makers Academy (Skills Bootcamp Scholarship winner). I have a strong background on creative processes and technology in the music industry, that I applyied in team-work type of settings. Skills that have been very important tools in my process as a Developer. 
 
-Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+Then a sentence about what you've achieved. 
+I 
+
+And then a sentence about what excites you about tech.
 
 ## Projects
 
