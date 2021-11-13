@@ -18,7 +18,6 @@ I like that working in the tech industry is a career of continuous growth. In th
 
 **Tomas Garcia Music** (March '16 to November '21)  
 _Music Studio Owner_
-
 As a freelance drumset teacher, Audio Engineer, and studio owner I was self-motivated to start and organize different music projects. I had to design a drumset lessons curriculum, self-assist and produce my remote drum tracking for clients, promote my business and bring new clients to my roster.
 
 **Company Name** (start-date to end-date)  
