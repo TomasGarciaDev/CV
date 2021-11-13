@@ -67,15 +67,20 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### London College of Contemporary Music, London UK (Oct'12 to Jul'15)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BMus (Hons) Music Performance and Production.
+- 2.1
+- Theory and practical applications of music technology in music studio recording and music creation.
 
-#### Any other qualifications
+#### Taller de Musics. Barcelona, Spain ('02 to 07)
 
-That in some arguable way make you a better software developer or well-rounded person
+- Advanced studies in: jazz drumset, jazz ensemble, arrangement piano, arrangement, harmony, ear training and music analysis.
+
+#### Microfusa School of Audio. Barcelona, Spain ('04)
+
+- Computer Music Diploma.
+- Theory and application music software (Logix X, Protools, Ableton Live and Sibelius).
 
 ## Hobbies
 
