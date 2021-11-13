@@ -58,14 +58,15 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
+#### Makers Academy. London, UK. (Novemeber'21 to February'22)
+
+Highly selective 12 week intensive coding bootcamp.
+
+- Pair programing
 - you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- TDD
+- Ruby
+- RSpec
 
 #### London College of Contemporary Music, London UK (Oct'12 to Jul'15)
 
@@ -81,6 +82,15 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - Computer Music Diploma.
 - Theory and application music software (Logix X, Protools, Ableton Live and Sibelius).
+
+#### Servei d’Ocupació de Catalunya. Barcelona, Spain. ('02)
+
+- Audio Engineering Diploma.
+- Theory and practical application music pre and post production for recording, editing and mixing music and sound.
+
+#### SCD College of Music. Santiago, Chile. (January'00 to December'01)
+
+- Degree on Popular Music Performance (Drumset). First 2 year only.
 
 ## Hobbies
 
