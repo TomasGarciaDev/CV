@@ -20,8 +20,9 @@ I like that working in the tech industry is a career of continuous growth. In th
 _Music Studio Owner_
 As a freelance drumset teacher, Audio Engineer, and studio owner I was self-motivated to start and organize different music projects. I had to design a drumset lessons curriculum, self-assist and produce my remote drum tracking for clients, promote my business and bring new clients to my roster.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**2k12 estudios** (February '12 to June '16)  
+_Drummer/Composer_
+I was part and one of the founder members of *2k12 estudio*, we were a music composition, production, and sound design company for AV. As part of the team, I was one of the composers and studio musicians, and as a partner, we worked and researched different, and creative, ways of applying music and sound to the moving images. During my time in the company, I was in charge of the creation and supervision of the website contents and design.
 
 - Any experience relevent to software development
 
