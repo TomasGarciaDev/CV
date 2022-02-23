@@ -26,13 +26,17 @@ I was part and one of the founder members of *2k12 estudio*, we were a music com
 
 ## Skills
 
-_Team Work_
+** Team Work **
+I am big believer that the best results for a project or work environment comes from a group of people working together with the same goal in mind. I always keep my self open to learn an improve ways of developing a dinamic and healthy working environtment, using Agile methodology or my prvious work experience. On my previous job as studio owner and company partner, a big focus was I always to keep fluent and appreciative commnication with clients and coleges.
 
-_Technology Entusiast_
+** Technology Entusiast **
 
-_Continues Learning_
 
-_Clean Code and Simplest Solution_
+** Continues Learning **
+
+
+** Clean Code and Simplest Solution **
+As a Programmer, develop Code that is easy to maintain and read. Working on the always challenge task of finding the Simplest solution to a task aboiding for cluttered solutuons.
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 (Using a STAR example Paragraph) Consider the questions below.
