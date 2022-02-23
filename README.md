@@ -22,11 +22,17 @@ As a freelance drumset teacher, Audio Engineer, and studio owner I was self-moti
 
 **2k12 estudios** (February '12 to June '16)  
 _Drummer/Composer_
-I was part and one of the founder members of *2k12 estudio*, we were a music composition, production, and sound design company for AV. As part of the team, I was one of the composers and studio musicians, and as a partner, we worked and researched different, and creative, ways of applying music and sound to the moving images. During my time in the company, I was in charge of the creation and supervision of the website contents and design.
-
-- Any experience relevent to software development
+I was part and one of the founder members of *2k12 estudio*, we were a music composition, production, and sound design company for Audiovisual Industry. As part of the team, I was one of the composers and studio musicians, and as a partner, we worked and researched different, and creative, ways of applying music and sound to the moving images. During my time in the company, I was in charge of the creation and supervision of the website contents and design.
 
 ## Skills
+
+_Team Work_
+
+_Technology Entusiast_
+
+_Continues Learning_
+
+_Clean Code and Simplest Solution_
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 (Using a STAR example Paragraph) Consider the questions below.
