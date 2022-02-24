@@ -1,5 +1,5 @@
 ## Tomas Garcia
-I am a curious, self-motivated, eager learner, and a junior full-stack developer trained at Makers Academy. I have a strong background in creative processes, education, and technology in the music industry, skills I consistently apply in teamwork settings. These skills have been key tools in my growth as a Developer.
+I am a curious, self-motivated, eager learner, and a junior full-stack developer trained at [Makers Academy] (https://makers.tech/). I have a strong background in creative processes, education, and technology in the music industry, skills I consistently apply in teamwork settings. These skills have been key tools in my growth as a Developer.
 
 Since I started as a curious amateur coder fast-forwarding to winning the Skill Bootcamp Scholarship at Makers, which lead me to one of the best and most intensive professional experiences, a complete and intensive 16 weeks Full-Stack training. Now I can assuredly say that I have grown into a competent and confident junior developer.
 
