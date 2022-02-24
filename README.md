@@ -7,10 +7,10 @@ One of my favorite parts of the tech industry is that is a career of continuous 
 
 ## Projects
 
-| Name                         | Description                                                  | Tech/tools         |
-| ---------------------------- | ------------------------------------------------------------ | ------------------ |
-| [**MakersBnB**](https://github.com/TomasGarciaDev/makersbnb)              | Command Line application that manages a diretory of students | Ruby.              |
-| **FizzBuzz**                 | Class and Ruby method                                        | Ruby and Rspec     |
+| Name                             | Description                                                      | Tech/tools              |
+| ---------------------------------|----------------------------------------------------------------- | ----------------------- |
+| [**MakersBnB**](https://github.com/TomasGarciaDev/makersbnb)| Engineering project based on building AirBnB clone. | Ruby, Sinatra, Bulma and HTML. Capybara and RSpec.              |
+| [**Mapping**](https://github.com/TomasGarciaDev/world-map-game) | Engineering project based on a single or multiplayer interactive world map guessing game. | JavaScript, React, Node.js, Next.js, Mapbox, Socket.io |
   
 
 ## Work Experience
