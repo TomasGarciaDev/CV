@@ -9,7 +9,7 @@ One of my favorite parts of the tech industry is that is a career of continuous 
 
 | Name                         | Description                                                  | Tech/tools         |
 | ---------------------------- | ------------------------------------------------------------ | ------------------ |
-| **Student Directory**        | Command Line application that manages a diretory of students | Ruby.              |
+| [**MakersBnB**](https://github.com/TomasGarciaDev/makersbnb)              | Command Line application that manages a diretory of students | Ruby.              |
 | **FizzBuzz**                 | Class and Ruby method                                        | Ruby and Rspec     |
   
 
