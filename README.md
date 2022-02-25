@@ -27,6 +27,8 @@ _Drummer/Composer_
 
 ## Skills
 
+_Tech skills: HTML, CSS, Bootstrap, Bulma, JavaScript, Ruby, Rails, React, Node.js, Next.js, Socket.io, PostgreSQL, Jest, Cypress, Rspec, Capybara_
+
 **Team Work**
 I am a devoted supporter of the idea that the best results for a project or work environment come from a group of people working together with the same goal in mind, where each part brings their experiences and expertise to the task that is on hand. I always keep myself open to learning and improving on best ways of developing a dynamic and healthy working environment, e.g., Agile methodology, my or others' previous work experience. As a studio owner and company partner, a big focus was always to keep fluent and appreciative communication with clients and colleagues.
 
