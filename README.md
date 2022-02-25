@@ -35,7 +35,8 @@ I am a devoted supporter of the idea that the best results for a project or work
 **Technology Entusiast**
 Throughout my career as a musician, I consistently used and learned software and hardware technology for music production, recording, and teaching. Such as DAWs (Logic Pro, Protools, Sibelius, Ableton live, etc... ), and hardware such as compressors, EQ, compressors, and such. I used these tools to produce and deliver high-end music and recording productions. As well as developing a more dynamic and modern teaching curriculum, and lessons. As a result, I manage to deliver professional standards production faster, and form well-rounded students.
 
-**Continues Learning**
+**Continuous Learner**
+Keeping myself up to date with the changes that my industry is having has always been a highly enjoyable part of what I do. Seen where trends are going or what new update in a piece of software or hardware is coming. As well as solidifying the fundamental concepts of what I do, giving me a solid foundation to absorb these new changes and challenges.  As a musician every project was bringing at least one new element, technological or skills base, that was completely new to me that I have to quickly learn and apply with confidence.
 
 
 **Clean Code and Simplest Solution**
