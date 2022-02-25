@@ -37,7 +37,7 @@ Throughout my career as a musician, I consistently used and learned software and
 
 **Continuous Learner**
 Keeping myself up to date with the changes that my industry is having has always been a highly enjoyable part of what I do. Seen where trends are going or what new update in a piece of software or hardware is coming. As well as solidifying the fundamental concepts of what I do, giving me a solid foundation to absorb these new changes and challenges.  As a musician every project was bringing at least one new element, technological or skills base, that was completely new to me that I have to quickly learn and apply with confidence.
-I am currently learning the MERN looking to gain a solid understanding of these technologies and how they work together.
+I am currently learning MERN looking to gain a solid understanding of these technologies and how they work together.
 
 
 **Clean Code and Simplest Solution**
