@@ -31,7 +31,7 @@ _Drummer/Composer_
 I am a devoted supporter of the idea that the best results for a project or work environment come from a group of people working together with the same goal in mind, where each part brings their experiences and expertise to the task that is on hand. I always keep myself open to learning and improving on best ways of developing a dynamic and healthy working environment, e.g., Agile methodology, my or others' previous work experience. As a studio owner and company partner, a big focus was always to keep fluent and appreciative communication with clients and colleagues.
 
 **Technology Entusiast**
-
+Throughout my career as a musician, I consistently used and learned software and hardware technology for music production, recording, and teaching. Such as DAWs (Logic Pro, Protools, Sibelius, Ableton live, etc... ), and hardware such as compressors, EQ, compressors, and such. I used these tools to produce and deliver high-end music and recording productions. As well as developing a more dynamic and modern teaching curriculum, and lessons. As a result, I manage to deliver professional standards production faster, and form well-rounded students.
 
 **Continues Learning**
 
