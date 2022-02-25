@@ -13,7 +13,7 @@ One of my favorite parts of the tech industry is that is a career of continuous 
 | [**Mapping**](https://github.com/TomasGarciaDev/world-map-game) | Engineering project based on a single or multiplayer interactive world map guessing game. | JavaScript, React, Node.js, Next.js, Mapbox, Socket.io |
   
 
-## Work Experience
+## Related Work Experience
 
 **Tomas Garcia Music** (March '16 to November '21)  
 _Music Studio Owner_
@@ -28,7 +28,7 @@ _Drummer/Composer_
 ## Skills
 
 **Team Work**
-I am big believer that the best results for a project or work environment comes from a group of people working together with the same goal in mind. I always keep my self open to learn an improve ways of developing a dinamic and healthy working environtment, using Agile methodology or my prvious work experience. On my previous job as studio owner and company partner, a big focus was I always to keep fluent and appreciative commnication with clients and coleges.
+I am a devoted supporter of the idea that the best results for a project or work environment come from a group of people working together with the same goal in mind, where each part brings their experiences and expertise to the task that is on hand. I always keep myself open to learning and improving on best ways of developing a dynamic and healthy working environment, e.g., Agile methodology, my or others' previous work experience. As a studio owner and company partner, a big focus was always to keep fluent and appreciative communication with clients and colleagues.
 
 **Technology Entusiast**
 
