@@ -26,7 +26,7 @@ As a freelance drumset teacher, Audio Engineer, and studio owner I was self-moti
 **2k12 estudios** (February '12 to June '16)  
 _Drummer/Composer_
 
- *2k12 estudio*, was a music production, composition, and sound design company for Audiovisual Industry. As one of the partners and founder members, I was one of the composers and studio musicians. We worked and researched different, and creative, ways of applying music and sound to the moving images. During my time in the company, I was in charge of the creation and supervision of the website contents and design, among have a shared the overall view of the direction of the company.
+ *2k12 estudio*, was a music production, composition, and sound design service for the Audiovisual Industry. As one of the partners and founder members, I was one of the composers and studio musicians. We worked and researched different, and creative, ways of applying music and sound to the moving images. During my time in the company, I was in charge of the creation and supervision of the website contents and design, as well as developing our collective view of the direction of the company.
 
 
 ## Skills
