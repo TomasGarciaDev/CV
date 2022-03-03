@@ -51,7 +51,7 @@ This is a mindset that comes not just as a Dev, as a musician, I have always loo
 
 #### Makers Academy. London, UK. (Novemeber'21 to February'22)
 
-Highly selective 16 week intensive coding bootcamp.
+Highly selective 16 weeks intensive coding bootcamp.
 
 - Pair programming, TDD, SOLID, DRY, and Agile methodology.
 - Full Stack Web Development
