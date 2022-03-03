@@ -53,10 +53,9 @@ This is a mindset that comes not just as a Dev, as a musician, I have always loo
 
 Highly selective 16 week intensive coding bootcamp.
 
-- Pair programing adn TDD
+- Pair programming, TDD, SOLID, DRY, and Agile methodology.
 - Full Stack Web Development
 - OOP, TDD, MVC
-- Agile methodologies
 - Version Control (Git/Github)
 - Deploying on Heroku
 - Ruby
