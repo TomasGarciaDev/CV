@@ -34,19 +34,17 @@ _Drummer/Composer_
 _Tech skills: HTML, CSS, Bootstrap, Bulma, JavaScript, Ruby, Rails, React, Node.js, Next.js, Socket.io, PostgreSQL, Jest, Cypress, Rspec, Capybara_
 
 **Team Work**
-I am a devoted supporter of the idea that the best results for a project or work environment come from a group of people working together with the same goal in mind, where each part brings their experiences and expertise to the task that is on hand. I always keep myself open to learning and improving on best ways of developing a dynamic and healthy working environment, e.g., Agile methodology, my or others' previous work experience. As a studio owner and company partner, a big focus was always to keep fluent and appreciative communication with clients and colleagues.
+Teamwork is an essential part of working as a Musician. Every team member is bringing something unique to the table, I actively listen to ideas and contribute to achieving the best result possible for the project. As a studio owner and company partner, a big focus was always to keep fluent and appreciative communication with clients and colleagues. Learning methodologies like Agile has been a great tool to streamline group works processes, something that was a key tool during our Engineering Projects at Makers.
 
 **Tech Fluent**
-Throughout my career as a musician, I consistently used and learned software and hardware technology for music production, recording, and teaching. Such as DAWs (Logic Pro, Protools, Sibelius, Ableton live, etc... ), and hardware such as compressors, EQ, compressors, and such. I used these tools to produce and deliver high-end music and recording productions. As well as developing a more dynamic and modern teaching curriculum, and lessons. As a result, I manage to deliver professional standards production faster, and form well-rounded students.
+Throughout my career as a musician, I consistently used and learned software and hardware technology for music production, recording, and teaching. Such as DAWs and hardware outboard gear. I used these tools to produce and deliver high-end music and recording productions. As well as developing a more dynamic and modern teaching curriculum, and lessons. As a result, I manage to deliver professional standards production faster and form well-rounded students.
 
-**Avid Learner**
-Keeping myself up to date with the changes that my industry is having has always been a highly enjoyable part of what I do. Seen where trends are going or what new update in a piece of software or hardware is coming. As well as solidifying the fundamental concepts of what I do, giving me a solid foundation to absorb these new changes and challenges.  As a musician every project was bringing at least one new element, technological or skills base, that was completely new to me that I have to quickly learn and apply with confidence.
-I am currently learning MERN looking to gain a solid understanding of these technologies and how they work together.
+**Quick Learner**
+Keeping myself up to date with the changes that my industry is having has always been a highly enjoyable part of what I do. Seen where trends are going or what new update in a piece of software or hardware is coming. As well as solidifying the fundamental concepts of what I do, giving me a solid foundation to absorb these new changes and challenges. As a musician every project was bringing at least one new element, technological or skills base, that was new to me that I have to quickly learn and apply with confidence. I am currently learning React looking to gain a solid understanding MERN stack.
 
 **Clean and Simple Code**
-Writing or doing something the 'Simplest' way might be probably the most challenging approach to a task, that is an awesome challenge.
-As a programmer, I have always kept a strong focus on making my code simple, easy to read and maintain. Reviewing other people's code has been a great tool to improve in this subject, something that I highly enjoy. Probably most of my growth as a programmer comes from sharing and discussing with fellow Devs about coding and reviewing each other's work.
-This is a mindset that comes not just as a Dev, as a musician, I have always looked for the solution that I think works best, and is the simplest for the situation. Trying to build projects on very small tasks and with clarity. 
+I take pride in the quality of my code, striving to ensure that it is well-tested, flexible, and readable. I follow both DRY and SOLID principles where I can. A good example is my [Bank Tech Test](https://github.com/TomasGarciaDev/bank_tech_test) where a followed a TDD approach and achieved over 95% test coverage. 
+This is a mindset that comes not just as a Dev, as a musician, I have always looked for the solution that I think works best, and is the simplest for the situation. Trying to build projects on very small tasks and with clarity.  
 
 
 ## Education
