@@ -33,7 +33,7 @@ _Drummer/Composer_
 
 _Tech skills: HTML, CSS, Bootstrap, Bulma, JavaScript, Ruby, Rails, React, Node.js, Next.js, Socket.io, PostgreSQL, Jest, Cypress, Rspec, Capybara_
 
-**Team Work**
+**Team Player**
 Teamwork is an essential part of working as a Musician. Every team member is bringing something unique to the table, I actively listen to ideas and contribute to achieving the best result possible for the project. As a studio owner and company partner, a big focus was always to keep fluent and appreciative communication with clients and colleagues. Learning methodologies like Agile has been a great tool to streamline group works processes, something that was a key tool during our Engineering Projects at Makers.
 
 **Tech Fluent**
