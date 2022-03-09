@@ -1,19 +1,20 @@
 [About](#tomas-garcia) | [Projects](#latest-projects) | [Work Epxperience](#related-work-experience) | [Skills](#skills) | [Education](#education)
 | [Hobbies](#hobbies) | [Linkedin](https://www.linkedin.com/in/tomas-garcia-64b145102/)
 ## Tomas Garcia
-I am a curious, self-motivated, eager learner, and a junior full-stack developer trained at [Makers Academy](https://makers.tech/). I have a strong background in creative processes, education, and technology in the music industry, skills I consistently apply in teamwork settings. These skills have been key tools in my growth as a Developer.
+I am a curious, self-motivated, eager learner, Junior Full-Stack developer, and Musician. I trained as a coder at [Makers Academy](https://makers.tech/), Europe’s #1 Developer Bootcamp. I use my experience as a musician to feed my work as a Developer. Skills I consistently apply in teamwork settings. 
 
-Since I started as a curious amateur coder fast-forwarding to winning the Skill Bootcamp Scholarship at [Makers](https://makers.tech/), which lead me to one of the best and most intensive professional experiences, a complete and intensive 16 weeks Full-Stack training. Now I can assuredly say that I have grown into a competent and confident junior developer.
+I started as a curious amateur coder but I quickly grew into an eager learner. This led me to win a Scholarship at [Makers](https://makers.tech/). These intensive 16 weeks of Full-Stack training help me grow into a competent and confident Junior Developer.
 
-One of my favorite parts of the tech industry is that is a career of continuous growth. In this industry, my main goal is to expand my knowledge as a front-end, and full-stack developer.
+One of my favourite parts of the tech industry is that it is a career of continuous growth. In this industry, my main goal is to expand my knowledge as a front-end, and Full-Stack Developer.
 
 
 ## Latest Projects
 
 | Name                             | Description                                                      | Tech/tools              |
 | ---------------------------------|----------------------------------------------------------------- | ----------------------- |
-| [**MakersBnB**](https://github.com/TomasGarciaDev/makersbnb)| Engineering project based on building AirBnB clone. | Ruby, Sinatra, Bulma and HTML. Capybara and RSpec.              |
-| [**Mapping**](https://github.com/TomasGarciaDev/world-map-game) | Engineering project based on a single or multiplayer interactive world map guessing game. | JavaScript, React, Node.js, Next.js, Mapbox, Socket.io |
+| [**MakersBnB**](https://github.com/TomasGarciaDev/makersbnb)| Engineering project 1 based on building AirBnB clone. | Ruby, Sinatra, Bulma and HTML. Capybara and RSpec.              |
+| [**Acebook**](https://github.com/TomasGarciaDev/Acebook) | Engineering project 2 based on building Facebook clone. | Ruby on Rails, SQLite |
+| [**Mapping**](https://github.com/TomasGarciaDev/world-map-game) | Engineering project 3 based on a single or multiplayer interactive world map guessing game. | JavaScript, React, Node.js, Next.js, Mapbox, Socket.io |
   
 
 ## Related Work Experience
@@ -21,12 +22,16 @@ One of my favorite parts of the tech industry is that is a career of continuous 
 **Tomas Garcia Music** (March '16 to November '21)  
 _Music Studio Owner_
 
-As a freelance drumset teacher, Audio Engineer, and studio owner I was self-motivated to start and organize different music projects. I had to design a drumset lessons curriculum, self-assist and produce my remote drum tracking for clients, promote my business and bring new clients to my roster.
+* Designed and implemented a drumset lessons curriculum with over 50 students in my roster, resulting in lessons being more dynamic and students progressing faster.
+* Created and produced a remote drum tracking service, looking for clear communication with my clients and delivering high-end recordings.
+* Promoted and managed my business, keeping track of budgets, and attracting new clients to my roster.
 
 **2k12 estudios** (February '12 to June '16)  
 _Drummer/Composer_
 
- *2k12 estudio*, was a music production, composition, and sound design service for the Audiovisual Industry. As one of the partners and founder members, I was one of the composers and studio musicians. We worked and researched different, and creative, ways of applying music and sound to the moving images. During my time in the company, I was in charge of the creation and supervision of the website contents and design, as well as developing our collective view of the direction of the company.
+* As partner and founder, collectively designed a vision for the company. Looking for a creative approach to music production, composition, and sound design for the [Audiovisual Industry](https://vimeo.com/channels/488410).
+* Working as a composer and studio musician, I had to deliver world-class productions in a short period of time. 
+* Developed and supervised the website contents and design, keeping a good feed for the blog and attractive content.
 
 
 ## Skills
@@ -40,7 +45,7 @@ Teamwork is an essential part of working as a Musician. Every team member is bri
 Throughout my career as a musician, I consistently used and learned software and hardware technology for music production, recording, and teaching. Such as DAWs and hardware outboard gear. I used these tools to produce and deliver high-end music and recording productions. As well as developing a more dynamic and modern teaching curriculum, and lessons. As a result, I manage to deliver professional standards production faster and form well-rounded students.
 
 **Quick Learner**
-Keeping myself up to date with the changes that my industry is having has always been a highly enjoyable part of what I do. Seen where trends are going or what new update in a piece of software or hardware is coming. As well as solidifying the fundamental concepts of what I do, giving me a solid foundation to absorb these new changes and challenges. As a musician every project was bringing at least one new element, technological or skills base, that was new to me that I have to quickly learn and apply with confidence. I am currently learning React looking to gain a solid understanding MERN stack.
+Keeping myself up to date with the changes that my industry is having has always been a highly enjoyable part of what I do. Seen where trends are going or what new update in a piece of software or hardware is coming. As well as solidifying the fundamental concepts of what I do, giving me a solid foundation to absorb these new changes and challenges. As a musician every project was bringing at least one new element, technological or skills base, that was new to me that I have to quickly learn and apply with confidence. I am currently deepening my knowledge of React and Rails looking to gain a solid foundation and more advanced features.
 
 **Clean and Simple Code**
 I take pride in the quality of my code, striving to ensure that it is well-tested, flexible, and readable. I follow both DRY and SOLID principles where I can. A good example is my [Bank Tech Test](https://github.com/TomasGarciaDev/bank_tech_test) where a followed a TDD approach and achieved over 95% test coverage. 
