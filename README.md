@@ -3,9 +3,9 @@
 ## Tomas Garcia
 I am a curious, self-motivated, eager learner, Junior Full-Stack developer, and Musician. I trained as a coder at [Makers Academy](https://makers.tech/), Europe’s #1 Developer Bootcamp. I use my experience as a musician to feed my work as a Developer. Skills I consistently apply in teamwork settings. 
 
-I started as a curious amateur coder but I quickly grew into an eager learner. This led me to win a Scholarship at [Makers](https://makers.tech/). These intensive 16 weeks of Full-Stack training help me grow into a competent and confident Junior Developer.
+I started as a curious amateur coder, but I quickly became an eager learner. This led me to win a Scholarship at [Makers](https://makers.tech/). These intensive 16 weeks of Full-Stack training help me grow into a competent and confident Junior Developer.
 
-One of my favourite parts of the tech industry is that it is a career of continuous growth. In this industry, my main goal is to expand my knowledge as a front-end, and Full-Stack Developer.
+One of my favorite parts of a tech career is that it is the continuous growth aspect of it. My main goal is to expand my knowledge as a front-end and Full-Stack Developer in this industry.
 
 
 ## Latest Projects
@@ -42,14 +42,17 @@ _Tech skills: HTML, CSS, Bootstrap, Bulma, JavaScript, Ruby, Rails, React, Node.
 Teamwork is an essential part of working as a Musician. Every team member is bringing something unique to the table. I actively listen to ideas, contribute and collaborate to achieve the best result possible for the project and the individuals. As a studio owner and company partner, a big focus was always to keep fluent and appreciative communication with clients and colleagues. Learning methodologies like Agile have been a great tool to streamline group work processes, which was vital during our Engineering Projects at Makers.
 
 **Tech Fluent**
-Throughout my career as a musician, I consistently used and learned software and hardware technology for music production, recording, and teaching. Such as DAWs and hardware outboard gear. I used these tools to produce and deliver high-end music and recording productions. As well as developing a more dynamic and modern teaching curriculum, and lessons. As a result, I manage to deliver professional standards production faster and form well-rounded students.
+As a musician, I consistently used and learned software and hardware technology for music production, recording, and teaching. Such as DAWs and hardware outboard gear. I used these tools to produce and deliver high-end music and recording productions. As well as developing a dynamic and modern teaching curriculum for my lessons. As a result, I quickly provided productions at professional standards and formed well-rounded students.
 
 **Quick Learner**
-Keeping myself up to date with the changes that my industry is having has always been a highly enjoyable part of what I do. Seen where trends are going or what new update in a piece of software or hardware is coming. As well as solidifying the fundamental concepts of what I do, giving me a solid foundation to absorb these new changes and challenges. As a musician every project was bringing at least one new element, technological or skills base, that was new to me that I have to quickly learn and apply with confidence. I am currently deepening my knowledge of React and Rails looking to gain a solid foundation and more advanced features.
+Keeping myself up to date with my industry's changes has been a gratifying part of what I do—seeing where trends are going or what new update in a piece of software or hardware is coming in. As well as solidifying the fundamental concepts of what I do, giving me a solid foundation to absorb these new changes and challenges. As a musician, every project brought at least one new technology or skills base element that I quickly learned and applied with confidence. I am currently deepening my knowledge of React and Rails, looking to gain a solid foundation and more advanced features.
 
 **Clean and Simple Code**
 I take pride in the quality of my code, striving to ensure that it is well-tested, flexible, and readable. I pay immense attention to detail, and I follow both DRY and SOLID principles where I can. A good example is my [Bank Tech Test](https://github.com/TomasGarciaDev/bank_tech_test), where I followed a TDD approach and achieved over 95% test coverage. 
 This mindset comes not just as a Dev but as a musician; I have always looked for the solution that I think works best and is the most straightforward—trying to build projects on minimal tasks and clarity.  
+
+**Fluent in Spanish and English**
+Born and raised in Chile, where I did school and high school, I consider Spanish my native tongue. I have lived in London, the UK, for 11 years now, here I did my degree in music and worked. I feel very confident about my English level that I have applied to my day-to-day private and working life.
 
 
 ## Education
