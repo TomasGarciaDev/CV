@@ -39,7 +39,7 @@ _Drummer/Composer_
 _Tech skills: HTML, CSS, Bootstrap, Bulma, JavaScript, Ruby, Rails, React, Node.js, Next.js, Socket.io, PostgreSQL, Jest, Cypress, Rspec, Capybara_
 
 **Team Player**
-Teamwork is an essential part of working as a Musician. Every team member is bringing something unique to the table, I actively listen to ideas and contribute to achieving the best result possible for the project. As a studio owner and company partner, a big focus was always to keep fluent and appreciative communication with clients and colleagues. Learning methodologies like Agile has been a great tool to streamline group works processes, something that was a key tool during our Engineering Projects at Makers.
+Teamwork is an essential part of working as a Musician. Every team member is bringing something unique to the table. I actively listen to ideas, contribute and collaborate to achieve the best result possible for the project and the individuals. As a studio owner and company partner, a big focus was always to keep fluent and appreciative communication with clients and colleagues. Learning methodologies like Agile have been a great tool to streamline group work processes, which was vital during our Engineering Projects at Makers.
 
 **Tech Fluent**
 Throughout my career as a musician, I consistently used and learned software and hardware technology for music production, recording, and teaching. Such as DAWs and hardware outboard gear. I used these tools to produce and deliver high-end music and recording productions. As well as developing a more dynamic and modern teaching curriculum, and lessons. As a result, I manage to deliver professional standards production faster and form well-rounded students.
@@ -48,8 +48,8 @@ Throughout my career as a musician, I consistently used and learned software and
 Keeping myself up to date with the changes that my industry is having has always been a highly enjoyable part of what I do. Seen where trends are going or what new update in a piece of software or hardware is coming. As well as solidifying the fundamental concepts of what I do, giving me a solid foundation to absorb these new changes and challenges. As a musician every project was bringing at least one new element, technological or skills base, that was new to me that I have to quickly learn and apply with confidence. I am currently deepening my knowledge of React and Rails looking to gain a solid foundation and more advanced features.
 
 **Clean and Simple Code**
-I take pride in the quality of my code, striving to ensure that it is well-tested, flexible, and readable. I follow both DRY and SOLID principles where I can. A good example is my [Bank Tech Test](https://github.com/TomasGarciaDev/bank_tech_test) where a followed a TDD approach and achieved over 95% test coverage. 
-This is a mindset that comes not just as a Dev, as a musician, I have always looked for the solution that I think works best, and is the simplest for the situation. Trying to build projects on very small tasks and with clarity.  
+I take pride in the quality of my code, striving to ensure that it is well-tested, flexible, and readable. I pay immense attention to detail, and I follow both DRY and SOLID principles where I can. A good example is my [Bank Tech Test](https://github.com/TomasGarciaDev/bank_tech_test), where I followed a TDD approach and achieved over 95% test coverage. 
+This mindset comes not just as a Dev but as a musician; I have always looked for the solution that I think works best and is the most straightforward—trying to build projects on minimal tasks and clarity.  
 
 
 ## Education
@@ -62,14 +62,8 @@ Highly selective 16 weeks intensive coding bootcamp.
 - Full Stack Web Development
 - OOP, TDD, MVC
 - Version Control (Git/Github)
-- Deploying on Heroku
-- Ruby
-- Sinatra
-- Rails
-- JavaScript
-- React
-- Next.js
-- Node.js
+- Ruby, Ruby on Rails, Sinatra
+- JavaScript, React, Next.js, Node.js
 - RSpec, Capibara, Cypress, Jest.
 - HTML, CSS (Bootstrap, Bulma)
 - Heroku deployment
