@@ -73,4 +73,5 @@ _Drummer/Composer_  **On-site/Remote - London**
 ## Additional Education
 
 **London College of Contemporary Music**  (October 2012 - July 2015)
+<br>
 _BMus (Hons) Music Performance and Production, 2.1_  **On-site - London**
