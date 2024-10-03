@@ -27,7 +27,7 @@ _Mid Frontend Developer_  **Remote - Valencia/Berlin**
 * Managing and configuring low-code tools like VWO, Heyflow, and Google Tag Manager to facilitate tracking, lead generation, and continuous experimentation.
 * Implementing features start-to-finish, including requirements clarification, implementation, deployment, and post-deploy evaluation.
 
-**Realizon @Zolar**  (October 2022 - September 2023)  
+**Realizon @Zolar**  (October 2022 - September 2023)
 <br>
 _Junior Frontend Developer_  **Remote - Valencia/Berlin**
 
