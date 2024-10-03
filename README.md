@@ -17,7 +17,8 @@ I am a second-career software developer with over two years of experience as a p
 
 ## Experience
 
-**Realizon @Zolar**  (October 2023 - Present)  
+**Realizon @Zolar**  (October 2023 - Present) 
+<br>
 _Mid Frontend Developer_  **Remote - Valencia/Berlin**
 
 * Frontend Development using React, Tailwind, Next.js, WordPress Headless CMS, GraphQL.
@@ -27,6 +28,7 @@ _Mid Frontend Developer_  **Remote - Valencia/Berlin**
 * Implementing features start-to-finish, including requirements clarification, implementation, deployment, and post-deploy evaluation.
 
 **Realizon @Zolar**  (October 2022 - September 2023)  
+<br>
 _Junior Frontend Developer_  **Remote - Valencia/Berlin**
 
 * Frontend Development using React, Tailwind, Next.js, WordPress Headless CMS, GraphQL.
@@ -37,6 +39,7 @@ issues to enhance product reliability.
 ## Education
 
 **Makers Academy**  (November 2021 - February 2022)
+<br>
 **On-site/Remote - London**
 
 _Highly selective, 16-week intensive coding bootcamp focused on building software engineering fundamentals and industry best practices._
@@ -56,6 +59,7 @@ functionality.
 ## Additional Experience
 
 **Tomas Garcia Music**  (March 2016 - November 2021)
+<br>
 _Music Studio Owner_  **On-site/Remote - London**
 
 * I designed and implemented a drumset lessons curriculum with over 50 students in my roster, resulting in more dynamic lessons and students progressing faster.
@@ -63,6 +67,7 @@ _Music Studio Owner_  **On-site/Remote - London**
 * I promoted and managed my business, keeping budgets and attracting new clients to my roster.
 
 **2k12 Estudios**  (February 2012 - June 2016)
+<br>
 _Drummer/Composer_  **On-site/Remote - London**
 
 * As partner and founder, I collectively designed a vision for the company. We were looking for a creative approach to music production, composition, and sound design for the Audiovisual Industry.
