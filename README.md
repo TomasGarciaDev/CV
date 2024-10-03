@@ -1,105 +1,77 @@
-[About](#tomas-garcia) | [Projects](#latest-projects) | [Work Epxperience](#related-work-experience) | [Skills](#skills) | [Education](#education)
-| [Hobbies](#hobbies) | [Linkedin](https://www.linkedin.com/in/tomas-garcia-64b145102/)
+[About](#tomas-garcia) | [Technical Skills](#technical-skills) | [Experience](#experience) | [Education](#education) | [Additional Experience](#additional-experience)
+| [Additional Education](#additional-ducation) | [Linkedin](https://www.linkedin.com/in/tomas-garcia-64b145102/)
 ## Tomas Garcia
-I am a curious, self-motivated, eager learner, Junior Full-Stack developer, and Musician. I trained as a coder at [Makers Academy](https://makers.tech/), Europe’s #1 Developer Bootcamp. I use my experience as a musician to feed my work as a Developer. Skills I consistently apply in teamwork settings. 
 
-I started as a curious amateur coder, but I quickly became an eager learner. This led me to win a Scholarship at [Makers](https://makers.tech/). These intensive 16 weeks of Full-Stack training help me grow into a competent and confident Junior Developer.
-
-One of my favorite parts of a tech career is that it is the continuous growth aspect of it. My main goal is to expand my knowledge as a front-end and Full-Stack Developer in this industry.
-
-
-## Latest Projects
-
-| Name                             | Description                                                      | Tech/tools              |
-| ---------------------------------|----------------------------------------------------------------- | ----------------------- |
-| [**MakersBnB**](https://github.com/TomasGarciaDev/makersbnb)| Engineering project 1 based on building AirBnB clone. | Ruby, Sinatra, Bulma and HTML. Capybara and RSpec.              |
-| [**Acebook**](https://github.com/TomasGarciaDev/Acebook) | Engineering project 2 based on building Facebook clone. | Ruby on Rails, SQLite |
-| [**Mapping**](https://github.com/TomasGarciaDev/world-map-game) | Engineering project 3 based on a single or multiplayer interactive world map guessing game. | JavaScript, React, Node.js, Next.js, Mapbox, Socket.io |
+I am a second-career software developer with over two years of experience as a professional Frontend Developer and a background in music, bringing creativity and problem-solving skills to the tech world. My journey from musician to developer taught me how to adapt, collaborate, and think outside the box. I specialize in React/Next, Node.js, and enjoy improving systems through clean code and innovative solutions. Passionate about learning and growth, I thrive in environments where I can make a tangible impact. Let’s connect if you’re interested in tech, development, or collaboration.
   
 
-## Related Work Experience
+## Technical Skills
 
-**Tomas Garcia Music** (March '16 to November '21)  
-_Music Studio Owner_
-
-* Designed and implemented a drumset lessons curriculum with over 50 students in my roster, resulting in lessons being more dynamic and students progressing faster.
-* Created and produced a remote drum tracking service, looking for clear communication with my clients and delivering high-end recordings.
-* Promoted and managed my business, keeping track of budgets, and attracting new clients to my roster.
-
-**2k12 estudios** (February '12 to June '16)  
-_Drummer/Composer_
-
-* As partner and founder, collectively designed a vision for the company. Looking for a creative approach to music production, composition, and sound design for the [Audiovisual Industry](https://vimeo.com/channels/488410).
-* Working as a composer and studio musician, I had to deliver world-class productions in a short period of time. 
-* Developed and supervised the website contents and design, keeping a good feed for the blog and attractive content.
+* Frontend Technologies: Next.js, React, GraphQL, WordPress Headless CMS, Tailwind CSS.
+* Testing: Jest, Cypress, React Testing Library.
+* Development Practices: Agile methodologies (Kanban, Scrum). Continuous Integration/Continuous
+Deployment (CI/CD).
+* Tools: VWO, Heyflow, Google Tag Manager
+* Version Control: Git, Github, Bitbucket
+* Languages: Native Spanish speaker with professional proficiency in English.
 
 
-## Skills
+## Experience
 
-_Tech skills: HTML, CSS, Bootstrap, Bulma, JavaScript, Ruby, Rails, React, Node.js, Next.js, Socket.io, PostgreSQL, Jest, Cypress, Rspec, Capybara_
+**Realizon @Zolar** (October 2023 - Present)  
+_Mid Frontend Developer_ **Remote - Valencia/Berlin**
 
-**Team Player**
-Teamwork is an essential part of working as a Musician. Every team member is bringing something unique to the table. I actively listen to ideas, contribute and collaborate to achieve the best result possible for the project and the individuals. As a studio owner and company partner, a big focus was always to keep fluent and appreciative communication with clients and colleagues. Learning methodologies like Agile have been a great tool to streamline group work processes, which was vital during our Engineering Projects at Makers.
+* Frontend Development using React, Tailwind, Next.js, WordPress Headless CMS, GraphQL.
+* Conversion Rate Optimization (CRO), working closely with the Content and Marketing department.
+* Implementation of Figma designs, working closely with the UI/UX team, expanding the design system implementation used across teams.
+* Managing and configuring low-code tools like VWO, Heyflow, and Google Tag Manager to facilitate tracking, lead generation, and continuous experimentation.
+* Implementing features start-to-finish, including requirements clarification, implementation, deployment, and post-deploy evaluation.
 
-**Tech Fluent**
-As a musician, I consistently used and learned software and hardware technology for music production, recording, and teaching. Such as DAWs and hardware outboard gear. I used these tools to produce and deliver high-end music and recording productions. As well as developing a dynamic and modern teaching curriculum for my lessons. As a result, I quickly provided productions at professional standards and formed well-rounded students.
+**Realizon @Zolar** (October 2022 - September 2023)  
+_Junior Frontend Developer_  **Remote - Valencia/Berlin**
 
-**Quick Learner**
-Keeping myself up to date with my industry's changes has been a gratifying part of what I do—seeing where trends are going or what new update in a piece of software or hardware is coming in. As well as solidifying the fundamental concepts of what I do, giving me a solid foundation to absorb these new changes and challenges. As a musician, every project brought at least one new technology or skills base element that I quickly learned and applied with confidence. I am currently deepening my knowledge of React and Rails, looking to gain a solid foundation and more advanced features.
-
-**Clean and Simple Code**
-I take pride in the quality of my code, striving to ensure that it is well-tested, flexible, and readable. I pay immense attention to detail, and I follow both DRY and SOLID principles where I can. A good example is my [Bank Tech Test](https://github.com/TomasGarciaDev/bank_tech_test), where I followed a TDD approach and achieved over 95% test coverage. 
-This mindset comes not just as a Dev but as a musician; I have always looked for the solution that I think works best and is the most straightforward—trying to build projects on minimal tasks and clarity.  
-
-**Fluent in Spanish and English**
-Born and raised in Chile, where I did school and high school, I consider Spanish my native tongue. I have lived in London, the UK, for 11 years now, here I did my degree in music and worked. I feel very confident about my English level that I have applied to my day-to-day private and working life.
+* Frontend Development using React, Tailwind, Next.js, WordPress Headless CMS, GraphQL.
+* Provided support in QA assurance across the Website team, ensuring code quality and identifying potential
+issues to enhance product reliability.
 
 
 ## Education
 
-#### Makers Academy. London, UK. (Novemeber'21 to February'22)
+**Makers Academy** (November 2021 - February 2022)
+On-site/Remote - London
 
-Highly selective 16 weeks intensive coding bootcamp.
+_Highly selective, 16-week intensive coding bootcamp focused on building software engineering fundamentals and industry best practices._
 
-- Pair programming, TDD, SOLID, DRY, and Agile methodology.
-- Full Stack Web Development
-- OOP, TDD, MVC
-- Version Control (Git/Github)
-- Ruby, Ruby on Rails, Sinatra
-- JavaScript, React, Next.js, Node.js
-- RSpec, Capibara, Cypress, Jest.
-- HTML, CSS (Bootstrap, Bulma)
-- Heroku deployment
-- Configuring APIs (Twilio/Guardian)
+* Specialised in Full Stack Web Development with a focus on Object-Oriented Programming (OOP), Test-Driven Development (TDD), Model-View-Controller (MVC) architecture, and Agile methodology.
+* Emphasised pair programming and the principles of SOLID and DRY coding for maintainable, scalable software.
+* Gained hands-on experience with Ruby, Ruby on Rails, and Sinatra for backend development.
+* Developed frontend expertise with JavaScript, React, Next.js, and Node.js for building responsive, dynamic web applications.
+* Conducted testing using RSpec, Capybara, Cypress, and Jest to ensure code quality and functionality.
+* Utilised version control through Git and GitHub for collaboration and project management.
+* Built websites using HTML and CSS frameworks like Bootstrap and Bulma for responsive design.
+* Deployed applications to Heroku, managing the full development lifecycle.
+* Integrated third-party APIs like Twilio and The Guardian API into web applications for extended
+functionality.
 
-#### London College of Contemporary Music, London UK (Oct'12 to Jul'15)
 
-- BMus (Hons) Music Performance and Production.
-- 2.1
-- Theory and practical applications of music technology in music studio recording and music creation.
+## Additional Experience
 
-#### Taller de Musics. Barcelona, Spain ('02 to 07)
+**Tomas Garcia Music** (March 2016 - November 2021)
+_Music Studio Owner_ **On-site/Remote - London**
 
-- Advanced studies in: jazz drumset, jazz ensemble, arrangement piano, arrangement, harmony, ear training and music analysis.
+* I designed and implemented a drumset lessons curriculum with over 50 students in my roster, resulting in more dynamic lessons and students progressing faster.
+* I created and produced a remote drum tracking service, looking for clear communication with my clients and delivering high-end recordings.
+* I promoted and managed my business, keeping budgets and attracting new clients to my roster.
 
-#### Microfusa School of Audio. Barcelona, Spain ('04)
+**2k12 Estudios** (February 2012 - June 2016)
+_Drummer/Composer_ **On-site/Remote - London**
 
-- Computer Music Diploma.
-- Theory and application music software (Logix X, Protools, Ableton Live and Sibelius).
+* As partner and founder, I collectively designed a vision for the company. We were looking for a creative approach to music production, composition, and sound design for the Audiovisual Industry.
+* Working as a composer and studio musician, I had to deliver world-class productions in a short period.
+* Developed and supervised the website contents and design, keeping a good feed for the blog and engaging content.
 
-#### Servei d’Ocupació de Catalunya. Barcelona, Spain. ('02)
 
-- Audio Engineering Diploma.
-- Theory and practical application music pre and post production for recording, editing and mixing music and sound.
+## Additional Education
 
-#### SCD College of Music. Santiago, Chile. (January'00 to December'01)
-
-- Degree on Popular Music Performance (Drumset). First 2 year only.
-
-## Hobbies
-
-- I am an avid reader of fiction, science, music, biography, and history books.
-- Meditation, Yoga, Tenis, and GMB Fitness.
-- Music, music, music! Love discovering new bands, playing drums, and making music with other people.
-- Food, love trying different types of food and trying to cook them myself.
-- Spending good quality time with my family and friends.
+**London College of Contemporary Music** (October 2012 - July 2015)
+_BMus (Hons) Music Performance and Production, 2.1_ **On-site - London**
