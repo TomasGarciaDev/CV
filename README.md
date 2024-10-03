@@ -7,19 +7,18 @@ I am a second-career software developer with over two years of experience as a p
 
 ## Technical Skills
 
-* Frontend Technologies: Next.js, React, GraphQL, WordPress Headless CMS, Tailwind CSS.
-* Testing: Jest, Cypress, React Testing Library.
-* Development Practices: Agile methodologies (Kanban, Scrum). Continuous Integration/Continuous
-Deployment (CI/CD).
-* Tools: VWO, Heyflow, Google Tag Manager
-* Version Control: Git, Github, Bitbucket
-* Languages: Native Spanish speaker with professional proficiency in English.
+* **Frontend Technologies:** Next.js, React, GraphQL, WordPress Headless CMS, Tailwind CSS.
+* **Testing:** Jest, Cypress, React Testing Library.
+* **Development Practices:** Agile methodologies (Kanban, Scrum). Continuous Integration/Continuous Deployment (CI/CD).
+* **Tools:** VWO, Heyflow, Google Tag Manager
+* **Version Control:** Git, Github, Bitbucket
+* **Languages:** Native Spanish speaker with professional proficiency in English.
 
 
 ## Experience
 
-**Realizon @Zolar** (October 2023 - Present)  
-_Mid Frontend Developer_ **Remote - Valencia/Berlin**
+**Realizon @Zolar**  (October 2023 - Present)  
+_Mid Frontend Developer_  **Remote - Valencia/Berlin**
 
 * Frontend Development using React, Tailwind, Next.js, WordPress Headless CMS, GraphQL.
 * Conversion Rate Optimization (CRO), working closely with the Content and Marketing department.
@@ -27,7 +26,7 @@ _Mid Frontend Developer_ **Remote - Valencia/Berlin**
 * Managing and configuring low-code tools like VWO, Heyflow, and Google Tag Manager to facilitate tracking, lead generation, and continuous experimentation.
 * Implementing features start-to-finish, including requirements clarification, implementation, deployment, and post-deploy evaluation.
 
-**Realizon @Zolar** (October 2022 - September 2023)  
+**Realizon @Zolar**  (October 2022 - September 2023)  
 _Junior Frontend Developer_  **Remote - Valencia/Berlin**
 
 * Frontend Development using React, Tailwind, Next.js, WordPress Headless CMS, GraphQL.
@@ -37,8 +36,8 @@ issues to enhance product reliability.
 
 ## Education
 
-**Makers Academy** (November 2021 - February 2022)
-On-site/Remote - London
+**Makers Academy**  (November 2021 - February 2022)
+**On-site/Remote - London**
 
 _Highly selective, 16-week intensive coding bootcamp focused on building software engineering fundamentals and industry best practices._
 
@@ -56,15 +55,15 @@ functionality.
 
 ## Additional Experience
 
-**Tomas Garcia Music** (March 2016 - November 2021)
-_Music Studio Owner_ **On-site/Remote - London**
+**Tomas Garcia Music**  (March 2016 - November 2021)
+_Music Studio Owner_  **On-site/Remote - London**
 
 * I designed and implemented a drumset lessons curriculum with over 50 students in my roster, resulting in more dynamic lessons and students progressing faster.
 * I created and produced a remote drum tracking service, looking for clear communication with my clients and delivering high-end recordings.
 * I promoted and managed my business, keeping budgets and attracting new clients to my roster.
 
-**2k12 Estudios** (February 2012 - June 2016)
-_Drummer/Composer_ **On-site/Remote - London**
+**2k12 Estudios**  (February 2012 - June 2016)
+_Drummer/Composer_  **On-site/Remote - London**
 
 * As partner and founder, I collectively designed a vision for the company. We were looking for a creative approach to music production, composition, and sound design for the Audiovisual Industry.
 * Working as a composer and studio musician, I had to deliver world-class productions in a short period.
@@ -73,5 +72,5 @@ _Drummer/Composer_ **On-site/Remote - London**
 
 ## Additional Education
 
-**London College of Contemporary Music** (October 2012 - July 2015)
-_BMus (Hons) Music Performance and Production, 2.1_ **On-site - London**
+**London College of Contemporary Music**  (October 2012 - July 2015)
+_BMus (Hons) Music Performance and Production, 2.1_  **On-site - London**
