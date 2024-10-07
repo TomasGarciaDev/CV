@@ -9,7 +9,7 @@ I am a second-career software developer with over two years of experience as a p
 
 * **Frontend Technologies:** Next.js, React, GraphQL, WordPress Headless CMS, Tailwind CSS.
 * **Testing:** Jest, Cypress, React Testing Library.
-* **Development Practices:** Agile methodologies (Kanban, Scrum). Continuous Integration/Continuous Deployment (CI/CD).
+* **Development Practices:** Agile methodologies (Kanban, Scrum). Continuous Integration/Continuous Deployment (CI/CD), Docker.
 * **Tools:** VWO, Heyflow, Google Tag Manager
 * **Version Control:** Git, Github, Bitbucket
 * **Languages:** Native Spanish speaker with professional proficiency in English.
