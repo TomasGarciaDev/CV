@@ -17,7 +17,7 @@ I am a second-career software developer with over two years of experience as a p
 
 ## Experience
 
-**Realizon @Zolar**  (October 2023 - Present) 
+**Realizon @Zolar**  (October 2023 - November 2024) 
 <br>
 _Mid Frontend Developer_  **Remote - Valencia/Berlin**
 
