@@ -2,9 +2,9 @@
 | [Additional Education](#additional-education) | [Linkedin](https://www.linkedin.com/in/tomas-garcia-64b145102/)
 ## Tomas Garcia
 
-I am a second-career software developer with over two years of experience as a professional Frontend Developer and a background in music, bringing creativity and problem-solving skills to the tech world. My journey from musician to developer taught me how to adapt, collaborate, and think outside the box. I specialize in React/Next, Node.js, and enjoy improving systems through clean code and innovative solutions. Passionate about learning and growth, I thrive in environments where I can make a tangible impact. Let’s connect if you’re interested in tech, development, or collaboration.
-  
+I am a Software Developer passionate about Frontend development, specializing in React, Next.js, and Node.js, with experience working on scalable web applications and modern JavaScript frameworks. My professional experience focuses on delivering clean, maintainable code and building intuitive, high-quality digital solutions. Transitioning from a creative career in music to software development has strengthened my ability to adapt, problem-solve, and bring a unique perspective to building exceptional user experiences. Passionate about technology, continuous improvement, and delivering tangible results, I thrive in fast-paced, collaborative environments where I can drive innovation and make a real impact.
 
+  
 ## Technical Skills
 
 * **Frontend Technologies:** Next.js, React, GraphQL, WordPress Headless CMS, Tailwind CSS.
