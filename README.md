@@ -2,14 +2,21 @@
 | [Additional Education](#additional-education) | [Linkedin](https://www.linkedin.com/in/tomas-garcia-64b145102/)
 ## Tomas Garcia
 
-I'm a Frontend Developer with 3+ years of experience working with React, Next.js, and CSS (SCSS, Tailwind, Styled Components). I have hands-on experience using TDD and writing tests with Cypress, Jest, and Testing Library. I’m also familiar with CI/CD pipelines, Docker, AWS deployments, and backend development using Node.js and Express.
+I am a Frontend Developer with 3 years of experience working with React, Next.js, and CSS (SCSS, Tailwind,
+Styled Components, etc…). I have good experience writing tests with Cypress, Jest, and Testing Library. I am
+also familiar with CI/CD pipelines, Docker, AWS deployments, and backend development using Node.js and
+Express.
 
-I enjoy turning functional requirements into practical solutions, working closely with designers to create user-friendly and visually appealing interfaces, and helping project managers with technical planning. Coming from a creative music career, I bring a fresh perspective, adaptability, and a focus on delivering meaningful, high-quality results.
+I enjoy turning functional requirements into practical solutions, working closely with designers to create
+user-friendly and visually appealing interfaces, and helping project managers with technical planning. Coming
+from a creative music career, I bring a fresh perspective, adaptability, and a focus on delivering meaningful,
+high-quality results.
 
   
 ## Technical Skills
 
 * **Frontend Technologies:** Next.js, React, GraphQL, WordPress Headless CMS, Tailwind CSS.
+* **Backend Technologies:** Node.js, Express.
 * **Testing:** Jest, Cypress, React Testing Library.
 * **Development Practices:** Agile methodologies (Kanban, Scrum). Continuous Integration/Continuous Deployment (CI/CD), Docker.
 * **Tools:** VWO, Heyflow, Google Tag Manager
@@ -19,23 +26,37 @@ I enjoy turning functional requirements into practical solutions, working closel
 
 ## Experience
 
-**Realizon @Zolar**  (October 2023 - November 2024) 
+**Realizon @Zolar**  (October 2022 - November 2024) 
 <br>
-_Mid Frontend Developer_  **Remote - Valencia/Berlin**
+_Frontend Developer_  **Remote - Valencia/Berlin**
 
-* Frontend Development using React, Tailwind, Next.js, WordPress Headless CMS, GraphQL.
-* Conversion Rate Optimization (CRO), working closely with the Content and Marketing department.
-* Implementation of Figma designs, working closely with the UI/UX team, expanding the design system implementation used across teams.
-* Managing and configuring low-code tools like VWO, Heyflow, and Google Tag Manager to facilitate tracking, lead generation, and continuous experimentation.
-* Implementing features start-to-finish, including requirements clarification, implementation, deployment, and post-deploy evaluation.
+* Designed and implemented responsive, high-performance web applications using React, Next.js, and
+GraphQL, integrated with a WordPress Headless CMS and Docker environments.
 
-**Realizon @Zolar**  (October 2022 - September 2023)
-<br>
-_Junior Frontend Developer_  **Remote - Valencia/Berlin**
+* Collaborated with Marketing and Content teams to build and optimize custom no-code lead generation tools,
+resulting in multiple lead funnels and up to a 50% increase in conversion rates through A/B testing and
+experimentation.
 
-* Frontend Development using React, Tailwind, Next.js, WordPress Headless CMS, GraphQL.
-* Provided support in QA assurance across the Website team, ensuring code quality and identifying potential
-issues to enhance product reliability.
+* Developed and maintained a scalable design system component library using Tailwind and Storybook,
+ensuring consistency and efficiency across teams, with versioning handled via Changesets.
+
+* Worked closely with the UI/UX team to translate Figma designs into polished, accessible web pages,
+enhancing user experience and expanding the design system.
+
+* Guided front-end and back-end developers on best practices and implementation strategies, fostering a
+collaborative and knowledge-sharing culture.
+
+* Configured and managed low-code tools like VWO, Heyflow, and Google Tag Manager to enable advanced
+tracking, lead generation, and continuous optimization experiments.
+
+* Delivered end-to-end feature implementations, including requirements gathering, technical design,
+development, deployment, and post-deployment evaluation.
+
+* Optimized applications with a strong focus on page speed, UI/UX improvements, and accessibility
+enhancements.
+
+* Contributed to project development using agile methodologies (SCRUM and Kanban), ensuring efficient and
+timely delivery of features.
 
 
 ## Education
