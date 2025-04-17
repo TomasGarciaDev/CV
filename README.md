@@ -1,5 +1,5 @@
 [About](#tomas-garcia) | [Technical Skills](#technical-skills) | [Experience](#experience) | [Education](#education) | [Additional Experience](#additional-experience)
-| [Additional Education](#additional-education) | [Linkedin](https://www.linkedin.com/in/tomas-garcia-64b145102/)
+| [Additional Education](#additional-education) | [Linkedin](https://www.linkedin.com/in/tomasgarciadev/)
 ## TOMAS GARCIA
 
 Frontend Developer with 3 years of professional experience developing scalable web
@@ -16,9 +16,8 @@ improvement, and ensuring high-quality deliverables with attention to detail.
   
 ## TECHNICAL SKILLS
 
-* **TECH STACK:** React, Next.js, TypeScript/JavaScript, WordPress Headless CMS, HTML5, CSS (CSS3
-* **TESTING & TOOLS:** Node.js, Express.
-* **Testing:** Jest, Cypress, Playwright, React Testing Library, Vitest, VWO, Google Tag Manager, API handling, Docker.
+* **TECH STACK:** React, Next.js, TypeScript/JavaScript, WordPress Headless CMS, HTML5, CSS (CSS3, SCSS, Tailwind), Node.js, Express.
+* **TESTING & TOOLS:** Jest, Cypress, Playwright, React Testing Library, Vitest, VWO, Google Tag Manager, API handling, Docker.
 * **DEVELOPMENT PRACTICES:** Agile (Kanban, Scrum), CI/CD, Version Control: Git (GitHub, Bitbucket), Documentation, Test-Driven Development (TDD).
 * **CLOUD SERVICES:** AWS (S3, CloudFront), Neon.tech.
 * **LANGUAGES:** Native Spanish, Professional English.
